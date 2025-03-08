@@ -1,9 +1,12 @@
 // ==UserScript==
 // @name         文献小助手（Literature Assistant）
-// @namespace    http://tampermonkey.net/
 // @version      0.0.1
-// @description  支持提取文献标题或DOI并一键跳转到其他网页进行搜索，目前支持网站：Sci Hub、ResearchGate、PubPeer、Google Scholar和Web of Science。
+// @author       occasional15
+// @homepage     https://github.com/occasional15/Literature-Assistant
+// @namespace    https://github.com/occasional15/Literature-Assistant
+// @description  一个油猴脚本，支持提取当前文献页面的标题或DOI并一键跳转到其他网页进行搜索，目前支持网站：Sci Hub、ResearchGate、PubPeer、Google Scholar和Web of Science。
 // @match        *://*/*
+// @license      MIT
 // @grant        none
 // @run-at       document-end
 // ==/UserScript==
