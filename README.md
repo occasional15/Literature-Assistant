@@ -3,7 +3,7 @@
 ## 使用方法
 
 在浏览器中安装*Tampermonkey*插件后安装此脚本。
-从 [GitHub](https://github.com/occasional15/Literature-Assistant/raw/refs/heads/main/%E6%96%87%E7%8C%AE%E5%B0%8F%E5%8A%A9%E6%89%8B%EF%BC%88Literature%20Assistant%EF%BC%89-0.0.1.user.js)  或 Greasy Fork（暂不支持）安装。
+从 [GitHub](https://github.com/occasional15/Literature-Assistant/raw/refs/heads/main/%E6%96%87%E7%8C%AE%E5%B0%8F%E5%8A%A9%E6%89%8B%EF%BC%88Literature%20Assistant%EF%BC%89-0.0.1.user.js)  或 [Greasy Fork](https://greasyfork.org/zh-CN/scripts/529156-%E6%96%87%E7%8C%AE%E5%B0%8F%E5%8A%A9%E6%89%8B-literature-assistant)安装。
 
 ## 简介
 
