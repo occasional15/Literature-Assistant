@@ -9,6 +9,8 @@
 // @license      MIT
 // @grant        none
 // @run-at       document-end
+// @downloadURL https://update.greasyfork.org/scripts/529156/%E6%96%87%E7%8C%AE%E5%B0%8F%E5%8A%A9%E6%89%8B%EF%BC%88Literature%20Assistant%EF%BC%89.user.js
+// @updateURL https://update.greasyfork.org/scripts/529156/%E6%96%87%E7%8C%AE%E5%B0%8F%E5%8A%A9%E6%89%8B%EF%BC%88Literature%20Assistant%EF%BC%89.meta.js
 // ==/UserScript==
 
 (function() {
